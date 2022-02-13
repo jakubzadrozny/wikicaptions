@@ -1,0 +1,6 @@
+torch
+torchvision
+psycopg2
+pytorch_lightning
+sentence_transformers
+transformers

@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.vscode/
+data/
+models/
+poster/
+reports/
+__pycache__
+src-backup*
+*.sql
+src/cleanup.py
+*.ipynb
+src/train_text.py
